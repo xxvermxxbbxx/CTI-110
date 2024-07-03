@@ -5,10 +5,8 @@
 # information from user, processes information collected and display results to user.
 
 print("\n-----Calculating Exponents-----")
-print(f' {"Location: " :<20} {location}')
-print(f' {"Initial Budget: " :<20}${budget:.2f}')
-print(f' {"Fuel: " :<20}${fuel:.2f}')
-print(f' {"Accomodation: " :<20}${hotel:.2f}')
-print(f' {"Food: " :<20}${food:.2f}')
-print("----------------------------------------\n")
-print(f' {"Remaining Balance:":<20}${remainAmount:.2f}')
+
+
+
+print("\n-----Addition and Subtraction-----")
+
